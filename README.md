@@ -20,7 +20,7 @@ Outcome
 - Provided insights that could be used for strategic decision-making in marketing and Customer retention
 
  Files Included
--All SQL queries used in the analysis, SQL queries used during other lessons. 
+  -All SQL queries used in the analysis, SQL queries used during other lessons. 
 - `dashboard.png` – Screenshot of the visualization
 
 
